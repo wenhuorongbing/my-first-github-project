@@ -8,6 +8,6 @@ public class TestGit1 {
 		System.out.println("line 1 another");
 		System.out.println("line 2 changed");
 		System.out.println("line 3 changed");
-		System.out.println("line 4 another");
+		System.out.println("line 5 another");
 	}
 }
